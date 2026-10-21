@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" fill="none">
+  <defs>
+    <linearGradient id="glow" x1="100" y1="100" x2="640" y2="530" gradientUnits="userSpaceOnUse"><stop stop-color="#8D70FF" stop-opacity=".32"/><stop offset="1" stop-color="#35B8E8" stop-opacity=".08"/></linearGradient>
+    <linearGradient id="screen" x1="158" y1="105" x2="590" y2="444" gradientUnits="userSpaceOnUse"><stop stop-color="#272044"/><stop offset="1" stop-color="#17132B"/></linearGradient>
+    <linearGradient id="accent" x1="213" y1="241" x2="452" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#9B82FF"/><stop offset="1" stop-color="#49BFF1"/></linearGradient>
+    <filter id="shadow" x="73" y="43" width="624" height="548" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="24"/></filter>
+  </defs>
+  <circle cx="385" cy="315" r="250" fill="url(#glow)"/>
+  <circle cx="391" cy="309" r="214" stroke="#A998FF" stroke-opacity=".17" stroke-dasharray="3 9"/>
+  <circle cx="391" cy="309" r="174" stroke="#72D4FF" stroke-opacity=".12"/>
+  <g filter="url(#shadow)" opacity=".48"><rect x="145" y="93" width="466" height="365" rx="30" fill="#7957F5"/></g>
+  <g transform="rotate(-4 380 300)">
+    <rect x="143" y="84" width="472" height="370" rx="23" fill="#100D20" stroke="#AAA0D4" stroke-opacity=".48" stroke-width="2"/>
+    <rect x="157" y="98" width="444" height="342" rx="13" fill="url(#screen)"/>
+    <path d="M170 98h418a13 13 0 0 1 13 13v26H157v-26a13 13 0 0 1 13-13Z" fill="#211B37"/>
+    <circle cx="175" cy="118" r="3.4" fill="#FA8296"/><circle cx="188" cy="118" r="3.4" fill="#F4C36C"/><circle cx="201" cy="118" r="3.4" fill="#71D6B0"/>
+    <rect x="219" y="112" width="110" height="12" rx="6" fill="#30294A"/>
+    <rect x="172" y="151" width="96" height="270" rx="9" fill="#1B1730"/>
+    <rect x="187" y="169" width="37" height="7" rx="3.5" fill="#D9D2F0"/>
+    <rect x="187" y="193" width="61" height="5" rx="2.5" fill="#6F6785"/>
+    <rect x="187" y="213" width="53" height="5" rx="2.5" fill="#6F6785"/>
+    <rect x="187" y="233" width="65" height="5" rx="2.5" fill="#6F6785"/>
+    <rect x="181" y="252" width="76" height="27" rx="6" fill="#433471"/>
+    <rect x="190" y="263" width="43" height="5" rx="2.5" fill="#C6B9FF"/>
+    <rect x="187" y="297" width="55" height="5" rx="2.5" fill="#6F6785"/>
+    <rect x="187" y="317" width="47" height="5" rx="2.5" fill="#6F6785"/>
+    <rect x="187" y="337" width="63" height="5" rx="2.5" fill="#6F6785"/>
+    <rect x="282" y="151" width="300" height="73" rx="9" fill="#211B37"/>
+    <text x="299" y="174" fill="#9D95B3" font-family="Arial,sans-serif" font-size="10" letter-spacing="1">SELAMAT DATANG</text>
+    <text x="299" y="197" fill="#F5F2FF" font-family="Arial,sans-serif" font-size="17" font-weight="700">Ruang digital Anda,</text>
+    <text x="299" y="216" fill="#F5F2FF" font-family="Arial,sans-serif" font-size="17" font-weight="700">siap untuk bertumbuh.</text>
+    <rect x="299" y="230" width="81" height="20" rx="6" fill="url(#accent)"/>
+    <rect x="309" y="237" width="52" height="6" rx="3" fill="#fff" fill-opacity=".92"/>
+    <rect x="282" y="261" width="188" height="153" rx="9" fill="#211B37"/>
+    <text x="297" y="282" fill="#B3ACC9" font-family="Arial,sans-serif" font-size="9">PERFORMA WEBSITE</text>
+    <path d="M301 380c25-37 36-10 58-36 23-28 32-10 52-34 18-22 29-7 46-27" stroke="url(#accent)" stroke-linecap="round" stroke-width="4"/>
+    <path d="M301 380c25-37 36-10 58-36 23-28 32-10 52-34 18-22 29-7 46-27v113H301V380Z" fill="url(#accent)" fill-opacity=".1"/>
+    <path d="M300 395h155M300 365h155M300 335h155M300 305h155" stroke="#655D78" stroke-opacity=".3"/>
+    <rect x="482" y="261" width="100" height="73" rx="9" fill="#211B37"/>
+    <text x="495" y="282" fill="#AAA3BE" font-family="Arial,sans-serif" font-size="8">PENGUNJUNG</text>
+    <text x="495" y="311" fill="#F5F2FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">2.4k</text>
+    <path d="m551 311 8-9 7 5 9-13" stroke="#7EE0BC" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="482" y="342" width="100" height="72" rx="9" fill="#211B37"/>
+    <text x="495" y="363" fill="#AAA3BE" font-family="Arial,sans-serif" font-size="8">KONVERSI</text>
+    <text x="495" y="392" fill="#F5F2FF" font-family="Arial,sans-serif" font-size="23" font-weight="700">+18%</text>
+    <rect x="337" y="455" width="85" height="13" rx="6.5" fill="#AAA0D4" fill-opacity=".5"/>
+    <path d="M289 468h181l24 11H265l24-11Z" fill="#877BB0" fill-opacity=".7"/>
+  </g>
+  <circle cx="628" cy="154" r="22" fill="#211B37" stroke="#A998FF" stroke-opacity=".5"/><path d="m628 143 3.3 7.7L639 154l-7.7 3.3L628 165l-3.3-7.7L617 154l7.7-3.3L628 143Z" fill="#A998FF"/>
+  <circle cx="127" cy="414" r="15" fill="#192B45" stroke="#54C8F2" stroke-opacity=".65"/><path d="M127 406v16m-8-8h16" stroke="#7EDCF9" stroke-linecap="round" stroke-width="2"/>
+</svg>
